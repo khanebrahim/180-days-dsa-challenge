@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f885ee-46df-411b-8b4c-069a350ddef1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/loop/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/loop/DoWhile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +41,13 @@
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.While">
-    <configuration name="Basic.conditional.Condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.conditional.Condition" />
+  <component name="RunManager" selected="Application.DoWhile">
+    <configuration name="Bitcoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.loop.Bitcoin" />
       <module name="180-days-dsa-challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.conditional.*" />
+          <option name="PATTERN" value="Basic.loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bitcoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.loop.Bitcoin" />
+    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.loop.DoWhile" />
       <module name="180-days-dsa-challenge" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoWhile" />
         <item itemvalue="Application.While" />
         <item itemvalue="Application.Bitcoin" />
         <item itemvalue="Application.Loop" />
         <item itemvalue="Application.Transfer_condition" />
-        <item itemvalue="Application.Basic.conditional.Condition" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +127,7 @@
       <updated>1654976845524</updated>
       <workItem from="1654976849334" duration="7583000" />
       <workItem from="1655050791722" duration="8026000" />
-      <workItem from="1655243892059" duration="2784000" />
+      <workItem from="1655243892059" duration="3415000" />
     </task>
     <servers />
   </component>
