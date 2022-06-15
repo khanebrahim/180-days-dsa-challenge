@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94f885ee-46df-411b-8b4c-069a350ddef1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/input_output/CaseCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/conditional/Comparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/conditional/Comparison.java" afterDir="false" />
-    </list>
+    <list default="true" id="94f885ee-46df-411b-8b4c-069a350ddef1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +41,7 @@
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CaseCheck">
+  <component name="RunManager" selected="Application.Comparison">
     <configuration name="CaseCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.input_output.CaseCheck" />
       <module name="180-days-dsa-challenge" />
@@ -113,8 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CaseCheck" />
         <item itemvalue="Application.Comparison" />
+        <item itemvalue="Application.CaseCheck" />
         <item itemvalue="Application.largest" />
         <item itemvalue="Application.DoWhile" />
         <item itemvalue="Application.While" />
@@ -132,7 +128,7 @@
       <workItem from="1654976849334" duration="7583000" />
       <workItem from="1655050791722" duration="8026000" />
       <workItem from="1655243892059" duration="3926000" />
-      <workItem from="1655274024000" duration="7139000" />
+      <workItem from="1655274024000" duration="7513000" />
     </task>
     <servers />
   </component>
@@ -149,5 +145,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Basic/conditional/Comparison.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
