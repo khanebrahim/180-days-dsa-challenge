@@ -25,7 +25,7 @@ public class Comparison {
             System.out.println("str and str2 are equal.");
         }
         else {
-            System.out.println("they are not equal.");
+            System.out.println("they are not equal");
         }
     }
 }
