@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f885ee-46df-411b-8b4c-069a350ddef1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/loop/Fibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/loop/CountNums.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ebrah/Desktop/Fun-With-Java-master&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
@@ -44,7 +45,7 @@
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Fibo">
+  <component name="RunManager" selected="Application.CountNums">
     <configuration name="CaseCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.input_output.CaseCheck" />
       <module name="180-days-dsa-challenge" />
@@ -71,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.loop.DoWhile" />
+    <configuration name="CountNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.loop.CountNums" />
       <module name="180-days-dsa-challenge" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountNums" />
         <item itemvalue="Application.Fibo" />
         <item itemvalue="Application.Comparison" />
         <item itemvalue="Application.CaseCheck" />
         <item itemvalue="Application.largest" />
-        <item itemvalue="Application.Basic.loop.DoWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +132,10 @@
       <workItem from="1654976849334" duration="7583000" />
       <workItem from="1655050791722" duration="8026000" />
       <workItem from="1655243892059" duration="3926000" />
-      <workItem from="1655274024000" duration="9572000" />
+      <workItem from="1655274024000" duration="10091000" />
+      <workItem from="1655417859913" duration="53000" />
+      <workItem from="1655486185077" duration="2209000" />
+      <workItem from="1655532726851" duration="2120000" />
     </task>
     <servers />
   </component>
