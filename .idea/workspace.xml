@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f885ee-46df-411b-8b4c-069a350ddef1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Switch_Statement/Switch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Switch_Statement/Nested.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Switch1">
+  <component name="RunManager" selected="Application.Nested">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.loop.Calculator" />
       <module name="180-days-dsa-challenge" />
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.loop.Fibo" />
+    <configuration name="Nested" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Switch_Statement.Nested" />
       <module name="180-days-dsa-challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.loop.*" />
+          <option name="PATTERN" value="Basic.Switch_Statement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Nested" />
         <item itemvalue="Application.Switch1" />
         <item itemvalue="Application.Switch" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.CountNums" />
-        <item itemvalue="Application.Fibo" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +137,7 @@
       <workItem from="1655486185077" duration="2209000" />
       <workItem from="1655532726851" duration="2120000" />
       <workItem from="1655580175195" duration="3570000" />
-      <workItem from="1655618968834" duration="7720000" />
+      <workItem from="1655618968834" duration="10269000" />
     </task>
     <servers />
   </component>
