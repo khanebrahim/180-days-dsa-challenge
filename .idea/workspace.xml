@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f885ee-46df-411b-8b4c-069a350ddef1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Pattern/Star.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Switch_Statement/Nested.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Switch_Statement/Nested.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,53 +32,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ebrah/Desktop/Fun-With-Java-master&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ebrah/Desktop/Fun-With-Java-master",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.idesettings.emmet"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Nested">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.loop.Calculator" />
-      <module name="180-days-dsa-challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic.loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.loop.CountNums" />
-      <module name="180-days-dsa-challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic.loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Star">
     <configuration name="Nested" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.Switch_Statement.Nested" />
       <module name="180-days-dsa-challenge" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Basic.Switch_Statement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Pattern.Pattern1" />
+      <module name="180-days-dsa-challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.Pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Star" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Pattern.Star" />
+      <module name="180-days-dsa-challenge" />
+      <selectedOptions>
+        <option name="environmentVariables" visible="false" />
+      </selectedOptions>
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.Pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Star" />
+        <item itemvalue="Application.Pattern1" />
         <item itemvalue="Application.Nested" />
         <item itemvalue="Application.Switch1" />
         <item itemvalue="Application.Switch" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.CountNums" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +147,9 @@
       <workItem from="1655486185077" duration="2209000" />
       <workItem from="1655532726851" duration="2120000" />
       <workItem from="1655580175195" duration="3570000" />
-      <workItem from="1655618968834" duration="11179000" />
+      <workItem from="1655618968834" duration="12243000" />
+      <workItem from="1655710849508" duration="862000" />
+      <workItem from="1655769577631" duration="10518000" />
     </task>
     <servers />
   </component>
@@ -164,6 +176,9 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>
