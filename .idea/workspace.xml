@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f885ee-46df-411b-8b4c-069a350ddef1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Pattern/rightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Pattern/Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.rightTriangle">
+  <component name="RunManager" selected="Application.Number">
     <configuration name="Basic.Pattern.Star2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.Pattern.Star2" />
       <module name="180-days-dsa-challenge" />
@@ -77,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nested" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Switch_Statement.Nested" />
+    <configuration name="Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Pattern.Number" />
       <module name="180-days-dsa-challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.Switch_Statement.*" />
+          <option name="PATTERN" value="Basic.Pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Number" />
         <item itemvalue="Application.rightTriangle" />
         <item itemvalue="Application.downwardTriangle" />
         <item itemvalue="Application.Basic.Pattern.hollowRectangle" />
         <item itemvalue="Application.Basic.Pattern.Star2" />
-        <item itemvalue="Application.Nested" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +151,7 @@
       <workItem from="1655769577631" duration="10518000" />
       <workItem from="1655822198479" duration="5869000" />
       <workItem from="1655996690545" duration="1576000" />
-      <workItem from="1656006546552" duration="2940000" />
+      <workItem from="1656006546552" duration="3657000" />
     </task>
     <servers />
   </component>
