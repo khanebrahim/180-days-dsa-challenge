@@ -1,6 +1,6 @@
 package Basic.Pattern;
 
-public class Star {
+public class downwardTriangle {
     public static void main(String[] args) {
         int n = 5;
         pattern1(n);
