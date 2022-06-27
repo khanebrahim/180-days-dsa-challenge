@@ -1,8 +1,8 @@
 package Basic.Pattern;
 
-public class Daimond {
+public class Diamond {
     public static void main(String[] args) {
-        int n =6;
+        int n =5;
         pattern5(n);
     }
     static void pattern5(int n){
@@ -13,7 +13,6 @@ public class Daimond {
                 System.out.print(" ");
 
             }
-
             for (int col = 0; col < totalColRow; col++) {
                 System.out.print("* ");
 
@@ -22,4 +21,3 @@ public class Daimond {
         }
     }
 }
-
