@@ -14,9 +14,12 @@ public class NumberPyramid {
                 System.out.print(col + " ");
 
             }
+
             for (int col=2; col<=row ; col++) {
                 System.out.print(col + " ");
             }
+
+
             System.out.println();
         }
     }
