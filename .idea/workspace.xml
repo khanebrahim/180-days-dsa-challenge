@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94f885ee-46df-411b-8b4c-069a350ddef1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Pattern/NumberPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Pattern/NumberPyramid.java" afterDir="false" />
-    </list>
+    <list default="true" id="94f885ee-46df-411b-8b4c-069a350ddef1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,6 +156,7 @@
       <workItem from="1656265582195" duration="676000" />
       <workItem from="1656402404777" duration="608000" />
       <workItem from="1656514879069" duration="7534000" />
+      <workItem from="1656697181018" duration="676000" />
     </task>
     <servers />
   </component>
