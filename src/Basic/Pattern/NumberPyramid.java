@@ -2,7 +2,7 @@ package Basic.Pattern;
 
 public class NumberPyramid {
     public static void main(String[] args) {
-        int n =8;
+        int n =6;
         pattern6(n);
     }
     static void pattern6(int n){
