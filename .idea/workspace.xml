@@ -52,7 +52,7 @@
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DownardTraingle1">
+  <component name="RunManager" selected="Application.RightTriangle1">
     <configuration name="DownardTraingle1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.Pattern.DownardTraingle1" />
       <module name="180-days-dsa-challenge" />
@@ -120,9 +120,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RightTriangle1" />
         <item itemvalue="Application.DownardTraingle1" />
         <item itemvalue="Application.Basic.Pattern.rightTriangle" />
-        <item itemvalue="Application.RightTriangle1" />
         <item itemvalue="Application.Basic.Pattern.downwardTriangle" />
         <item itemvalue="Application.Basic.Pattern.PatternNum" />
       </list>
