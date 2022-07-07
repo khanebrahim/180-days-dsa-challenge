@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f885ee-46df-411b-8b4c-069a350ddef1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Pattern/DownardTraingle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Pattern/RightTriangle1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Function/SumTwoNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,22 +51,9 @@
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RightTriangle1">
+  <component name="RunManager" selected="Application.SumTwoNum">
     <configuration name="DownardTraingle1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.Pattern.DownardTraingle1" />
-      <module name="180-days-dsa-challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic.Pattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PatternNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Pattern.PatternNum" />
       <module name="180-days-dsa-challenge" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="downwardTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Pattern.downwardTriangle" />
+    <configuration name="SumTwoNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Function.SumTwoNum" />
       <module name="180-days-dsa-challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.Pattern.*" />
+          <option name="PATTERN" value="Basic.Function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,13 +104,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="verticalCurve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Pattern.verticalCurve" />
+      <module name="180-days-dsa-challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.Pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumTwoNum" />
+        <item itemvalue="Application.verticalCurve" />
         <item itemvalue="Application.RightTriangle1" />
         <item itemvalue="Application.DownardTraingle1" />
-        <item itemvalue="Application.Basic.Pattern.rightTriangle" />
-        <item itemvalue="Application.Basic.Pattern.downwardTriangle" />
-        <item itemvalue="Application.Basic.Pattern.PatternNum" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +158,8 @@
       <workItem from="1656697181018" duration="676000" />
       <workItem from="1656998772868" duration="5853000" />
       <workItem from="1657036264304" duration="1242000" />
-      <workItem from="1657080767908" duration="1589000" />
+      <workItem from="1657080767908" duration="4351000" />
+      <workItem from="1657170637275" duration="1029000" />
     </task>
     <servers />
   </component>
