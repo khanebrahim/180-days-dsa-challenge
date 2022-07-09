@@ -1,10 +1,13 @@
 package Basic.Function;
-
+import java.util.Scanner;
 public class StringF {
     public static void main(String[] args) {
 //        String message = greet();
 //        System.out.println(message);
-        String personalInfo = myInfo("Safa");
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter your name");
+        String name = in.next();
+        String personalInfo = myInfo(name);
         System.out.println(personalInfo);
     }
 
