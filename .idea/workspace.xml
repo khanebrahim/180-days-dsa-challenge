@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f885ee-46df-411b-8b4c-069a350ddef1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Function/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Function/StringF.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Addition">
+  <component name="RunManager" selected="Application.StringF">
     <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.Function.Addition" />
       <module name="180-days-dsa-challenge" />
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DownardTraingle1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Pattern.DownardTraingle1" />
+    <configuration name="RightTriangle1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Pattern.RightTriangle1" />
       <module name="180-days-dsa-challenge" />
       <extension name="coverage">
         <pattern>
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightTriangle1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Pattern.RightTriangle1" />
+    <configuration name="StringF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Function.StringF" />
       <module name="180-days-dsa-challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.Pattern.*" />
+          <option name="PATTERN" value="Basic.Function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringF" />
         <item itemvalue="Application.Addition" />
         <item itemvalue="Application.SumTwoNum" />
         <item itemvalue="Application.verticalCurve" />
         <item itemvalue="Application.RightTriangle1" />
-        <item itemvalue="Application.DownardTraingle1" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +161,7 @@
       <workItem from="1657036264304" duration="1242000" />
       <workItem from="1657080767908" duration="4351000" />
       <workItem from="1657170637275" duration="1029000" />
-      <workItem from="1657255610358" duration="1711000" />
+      <workItem from="1657255610358" duration="3534000" />
     </task>
     <servers />
   </component>
