@@ -52,7 +52,7 @@
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringF">
+  <component name="RunManager" selected="Application.PassValue">
     <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.Function.Addition" />
       <module name="180-days-dsa-challenge" />
@@ -120,8 +120,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringF" />
         <item itemvalue="Application.PassValue" />
+        <item itemvalue="Application.StringF" />
         <item itemvalue="Application.Addition" />
         <item itemvalue="Application.SumTwoNum" />
         <item itemvalue="Application.verticalCurve" />
