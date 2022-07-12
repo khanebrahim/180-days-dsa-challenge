@@ -2,7 +2,7 @@ package Basic.Function;
 
 public class Swap {
     public static void main(String[] args) {
-        int a=20,b=40,temp;
+        int a=20,b=50,temp;
 //        temp =a;
 //        a=b;
 //        b=temp;
