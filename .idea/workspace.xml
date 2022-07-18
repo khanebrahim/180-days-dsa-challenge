@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f885ee-46df-411b-8b4c-069a350ddef1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Basic/loop/Timer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,20 +51,7 @@
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PassingExample">
-    <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Function.Addition" />
-      <module name="180-days-dsa-challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic.Function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Timer">
     <configuration name="PassValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.Function.PassValue" />
       <module name="180-days-dsa-challenge" />
@@ -116,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Timer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.loop.Timer" />
+      <module name="180-days-dsa-challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Timer" />
         <item itemvalue="Application.PassingExample" />
         <item itemvalue="Application.Swap" />
         <item itemvalue="Application.StringF" />
         <item itemvalue="Application.PassValue" />
-        <item itemvalue="Application.Addition" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +165,8 @@
       <workItem from="1657345587232" duration="5038000" />
       <workItem from="1657555086749" duration="71000" />
       <workItem from="1657776041814" duration="3971000" />
-      <workItem from="1658070838221" duration="1023000" />
+      <workItem from="1658070838221" duration="1655000" />
+      <workItem from="1658122437246" duration="1776000" />
     </task>
     <servers />
   </component>
