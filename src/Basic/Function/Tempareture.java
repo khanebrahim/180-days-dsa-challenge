@@ -6,7 +6,7 @@ public class Tempareture {
 
     }
     public static double celciusToFurenhiet(double celcius){
-        double furenhiet =(celcius*9/5)+32;
+        double furenhiet =(celcius*9/5)+34;
         return furenhiet;
     }
     public static double furenhietToCelcius(double furenhiet){
