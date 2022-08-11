@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f885ee-46df-411b-8b4c-069a350ddef1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/String/StringLiteral.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Function/Tempareture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Function/Tempareture.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tempareture">
+  <component name="RunManager" selected="Application.StringLiteral">
     <configuration name="HollowRightTraingle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.loop.HollowRightTraingle" />
       <module name="180-days-dsa-challenge" />
@@ -78,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MirroredRhombus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.loop.MirroredRhombus" />
+    <configuration name="RectangleStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.loop.RectangleStar" />
       <module name="180-days-dsa-challenge" />
       <extension name="coverage">
         <pattern>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.loop.RectangleStar" />
+    <configuration name="StringLiteral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.StringLiteral" />
       <module name="180-days-dsa-challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.loop.*" />
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringLiteral" />
         <item itemvalue="Application.Tempareture" />
         <item itemvalue="Application.IndexNumber" />
         <item itemvalue="Application.HollowRightTraingle" />
         <item itemvalue="Application.RectangleStar" />
-        <item itemvalue="Application.MirroredRhombus" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +181,8 @@
       <workItem from="1659768491307" duration="2951000" />
       <workItem from="1659850000141" duration="3030000" />
       <workItem from="1659892126847" duration="692000" />
+      <workItem from="1659937145265" duration="1835000" />
+      <workItem from="1660200780541" duration="3304000" />
     </task>
     <servers />
   </component>
