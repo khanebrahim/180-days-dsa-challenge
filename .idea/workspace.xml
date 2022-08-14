@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f885ee-46df-411b-8b4c-069a350ddef1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/String/StringLiteral.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/StringLiteral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/StringLiteral.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,6 +183,9 @@
       <workItem from="1659892126847" duration="692000" />
       <workItem from="1659937145265" duration="1835000" />
       <workItem from="1660200780541" duration="3304000" />
+      <workItem from="1660240269023" duration="639000" />
+      <workItem from="1660280193308" duration="911000" />
+      <workItem from="1660457824970" duration="252000" />
     </task>
     <servers />
   </component>
