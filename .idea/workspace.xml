@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f885ee-46df-411b-8b4c-069a350ddef1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/String/StringSplit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String/Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/Concatenation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,26 +51,13 @@
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Concatenation">
+  <component name="RunManager" selected="Application.StringSplit">
     <configuration name="Concatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.Concatenation" />
       <module name="180-days-dsa-challenge" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HollowRightTraingle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.loop.HollowRightTraingle" />
-      <module name="180-days-dsa-challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic.loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,6 +91,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.StringSplit" />
+      <module name="180-days-dsa-challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tempareture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.Function.Tempareture" />
       <module name="180-days-dsa-challenge" />
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringSplit" />
         <item itemvalue="Application.Concatenation" />
         <item itemvalue="Application.StringLiteral" />
         <item itemvalue="Application.Tempareture" />
         <item itemvalue="Application.IndexNumber" />
-        <item itemvalue="Application.HollowRightTraingle" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +190,8 @@
       <workItem from="1660542918527" duration="3710000" />
       <workItem from="1660628085985" duration="5360000" />
       <workItem from="1660715921120" duration="5245000" />
-      <workItem from="1660818679534" duration="402000" />
+      <workItem from="1660818679534" duration="1172000" />
+      <workItem from="1660886103336" duration="5349000" />
     </task>
     <servers />
   </component>
