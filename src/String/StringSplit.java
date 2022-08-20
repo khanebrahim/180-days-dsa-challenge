@@ -5,7 +5,7 @@ import java.util.StringTokenizer;
 
 public class StringSplit {
     public static void main(String[] args) {
-        String players = "Shakib Devilliers Rohit Babar Buttler Warner Moen Hardik Rashiid Shahin Bumrah";
+        String players = "Shakib Devilliers Rohit Babar Buttler Warner Moen Hardik Rashiid Shahin Bumrah Boult";
 
           String[] player = players.split(" ");
 //        System.out.println(Arrays.toString(player));
