@@ -17,6 +17,7 @@ public class DateTester {
         Date newDate =Date.from(instant);
         System.out.println(instant);
         System.out.println(newDate);
+        System.out.println(System.currentTimeMillis());
 
     }
 }
