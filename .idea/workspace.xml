@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f885ee-46df-411b-8b4c-069a350ddef1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/String/SimpleDateFormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/CalendarTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/SimpleDateFormatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/SimpleDateFormatTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,20 @@
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleDateFormatTest">
+  <component name="RunManager" selected="Application.CalendarTest">
+    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.CalendarTest" />
+      <module name="180-days-dsa-challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SimpleDateFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.SimpleDateFormatTest" />
       <module name="180-days-dsa-challenge" />
@@ -94,19 +108,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String.StringSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.StringSplit" />
-      <module name="180-days-dsa-challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.String" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="String.WhyStringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.WhyStringBuffer" />
       <module name="180-days-dsa-challenge" />
@@ -122,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalendarTest" />
         <item itemvalue="Application.SimpleDateFormatTest" />
         <item itemvalue="Application.String.DateTester" />
         <item itemvalue="Application.String.WhyStringBuffer" />
         <item itemvalue="Application.String.BufferString" />
-        <item itemvalue="Application.String.StringSplit" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +203,9 @@
       <workItem from="1661264405672" duration="4207000" />
       <workItem from="1661409182869" duration="1739000" />
       <workItem from="1661582847303" duration="2862000" />
+      <workItem from="1661620800802" duration="736000" />
+      <workItem from="1661669797782" duration="2176000" />
+      <workItem from="1661751886677" duration="4656000" />
     </task>
     <servers />
   </component>
