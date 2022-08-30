@@ -10,5 +10,6 @@ public class CalendarTest {
         System.out.println("month : " + now.get(Calendar.DAY_OF_MONTH));
         System.out.println("year : " + now.get(Calendar.YEAR));
         System.out.println("month : " + now.get(Calendar.WEEK_OF_MONTH));
+        System.out.println("month : " + now.get(Calendar.DAY_OF_YEAR));
     }
 }
